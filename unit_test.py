@@ -15,5 +15,4 @@ if __name__ == '__main__':
     print 1
     print 2
     print 12
-    sys.exit(2)
 
