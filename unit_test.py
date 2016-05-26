@@ -13,4 +13,4 @@ class TestDict(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main
     print 1
-    sys.exit(1)
+
