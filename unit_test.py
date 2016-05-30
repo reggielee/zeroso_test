@@ -17,5 +17,6 @@ if __name__ == '__main__':
     print 12
     print "asdfsdfsdfgasdfafsef"
     print "asdfsdfsdfgasdfasefasefafsef123"
+    print "asfe"
 
     sys.exit(0)
